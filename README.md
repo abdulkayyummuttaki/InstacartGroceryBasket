@@ -43,4 +43,47 @@ be able to answer the following key questions:
                     ● Are there differences in ordering habits based on a customer’s region?
                     
                     ● Is there a connection between age and family status in terms of ordering habits?
-                    
+
+
+## Skills
+
+  • Python(pandas, numpy, matplotlib.pyplot, seaborn )
+  • Jupyter anaconda
+  • Data wrangling
+  • Data merging
+  • Deriving variables
+  • Grouping data
+  • Aggregating data
+  • Reporting in Excel
+  • Population flows
+
+
+## Approach to the problem
+
+  1. Understanding the data
+  • Perform basic descriptive statistical operations with pandas to draw yearly insights into data.
+  • Applying data wrangling on columns of the data source
+  
+  
+  2. Data Cleaning
+  • Finding and addressing mixed type variables in a dataframe.
+  • Finding and addressing missing values in a dataframe.
+  • Finding and addressing duplicate values in a dataframe.
+  
+  3.Data Preparation
+  • Concatenating and merging data frames using join techniques.
+  • Deriving new columns from existing datasets to answer business questions.
+  • Using group and aggregate functions in pandas to answer complex business questions.
+  
+  
+  4.Storytelling
+  • Creating basic visualisations using Python libraries such as matplotlib.pyplot, seaborn .
+
+
+
+## Conclusion
+  1. The busiest days for the ad campaign are Saturdays and Sundays.
+  2. Busy hours for the purchase orders are from 9 AM to 5 PM. During these hours, advertising/marketing is recommended.
+  3. To increase sales order counts, the high-price range products require an additional ad campaign/marketing.
+  4. Departments 4 and 16 have received the highest orders. The least purchase orders are received in the department 10,11,2, 21 and 8
+    • Consolidate results of Python analysis in a final report for stakeholders.
