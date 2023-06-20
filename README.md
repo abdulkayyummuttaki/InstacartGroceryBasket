@@ -86,4 +86,4 @@ be able to answer the following key questions:
   2. Busy hours for the purchase orders are from 9 AM to 5 PM. During these hours, advertising/marketing is recommended.
   3. To increase sales order counts, the high-price range products require an additional ad campaign/marketing.
   4. Departments 4 and 16 have received the highest orders. The least purchase orders are received in the department 10,11,2, 21 and 8
-    • Consolidate results of Python analysis in a final report for stakeholders.
+  5. Detailed analysis and consolidated results of Python analysis in a [pfinal report for stakeholders](https://github.com/abdulkayyummuttaki/InstacartGroceryBasket/blob/main/Storytelling.xlsx).
